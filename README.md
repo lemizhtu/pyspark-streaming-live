@@ -1,4 +1,4 @@
-# PySpark Streaming Live
+# PySpark Structured Streaming Live
 
 Our task for today:
 
